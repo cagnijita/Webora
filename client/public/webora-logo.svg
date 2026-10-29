@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Webora logo</title>
+  <desc id="desc">A modern ribbon-style W mark in teal, emerald, and aqua gradients.</desc>
+  <defs>
+    <linearGradient id="weboraLeft" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#075C55"/><stop offset="1" stop-color="#002F35"/></linearGradient>
+    <linearGradient id="weboraMid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00E6A0"/><stop offset="1" stop-color="#00A978"/></linearGradient>
+    <linearGradient id="weboraRight" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#43E7E0"/><stop offset="0.55" stop-color="#11C7D5"/><stop offset="1" stop-color="#078DA9"/></linearGradient>
+  </defs>
+  <g transform="translate(50 115)">
+    <path d="M30 30 Q24 18 40 18 H115 Q151 18 170 55 L222 154 L183 218 Q168 242 145 242 Q121 242 109 217 Z" fill="url(#weboraLeft)"/>
+    <path d="M109 217 L164 123 Q185 85 216 85 Q248 85 270 126 L313 207 Q326 232 349 232 Q369 232 382 207 L428 116 L458 52 Q466 34 449 26 Q444 23 435 23 H378 Q344 23 326 57 L269 164 L231 230 Q211 267 174 267 Q139 267 121 231 Z" fill="url(#weboraMid)"/>
+    <path d="M269 164 L326 57 Q344 23 378 23 H435 Q452 23 458 36 Q462 44 456 56 L382 207 Q369 232 349 232 Q326 232 313 207 Z" fill="url(#weboraRight)"/>
+  </g>
+</svg>
